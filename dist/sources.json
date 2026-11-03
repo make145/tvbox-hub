@@ -31,7 +31,7 @@
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "sites": 298,
       "type3": 298,
-      "jar_kb": 63.1,
+      "jar_kb": 64.0,
       "l2_pass_rate": null
     },
     {
@@ -45,16 +45,16 @@
     {
       "name": "🚀游魂┃哈基米线路",
       "url": "https://www.iyouhun.com/tv/hjm",
-      "sites": 168,
-      "type3": 132,
+      "sites": 169,
+      "type3": 133,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.85
     },
     {
       "name": "哈基米",
       "url": "https://17264.kstore.space/%E5%93%88%E5%9F%BA%E7%B1%B3.png",
-      "sites": 168,
-      "type3": 132,
+      "sites": 169,
+      "type3": 133,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.85
     },
@@ -216,7 +216,7 @@
       "sites": 100,
       "type3": 72,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 0.7
     },
     {
       "name": "🚀5-Clun在线",
@@ -224,7 +224,7 @@
       "sites": 100,
       "type3": 72,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 0.7
     },
     {
       "name": "🚀无邪┃王二小备用",
@@ -307,6 +307,14 @@
       "l2_pass_rate": 1.0
     },
     {
+      "name": "🚀东篱线路 [在线]",
+      "url": "https://chigua.eu.org",
+      "sites": 93,
+      "type3": 89,
+      "jar_kb": 64.0,
+      "l2_pass_rate": 1.0
+    },
+    {
       "name": "东篱接口【apkck.top】",
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
       "sites": 93,
@@ -317,14 +325,6 @@
     {
       "name": "🚀游魂┃东篱",
       "url": "https://www.iyouhun.com/tv/dongli",
-      "sites": 93,
-      "type3": 89,
-      "jar_kb": 64.0,
-      "l2_pass_rate": 1.0
-    },
-    {
-      "name": "🚀东篱线路 [在线]",
-      "url": "https://chigua.eu.org",
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
