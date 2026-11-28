@@ -178,5 +178,11 @@
     "available": 234,
     "lines_total": 247,
     "avg_total_ms": 610.7
+  },
+  {
+    "date": "11-28 03:27",
+    "available": 220,
+    "lines_total": 247,
+    "avg_total_ms": 708.7
   }
 ]
